@@ -1,0 +1,4 @@
+let y=BigInt(1239394488488388399393);
+let hex=0x20000000;
+let oct=0o233333;
+let bin=0b1010;
